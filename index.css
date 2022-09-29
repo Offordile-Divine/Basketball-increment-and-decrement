@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home-guest {
+    display: flex;
+    justify-content: center;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+}
+
+#btn {
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    background: #080001;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
+}
+
+#btn-el {
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    background: #080001;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
+}
+
+.btn-all {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-home button {
+    background-color: #1B244A;
+    margin-top: 20px;
+}
+
+#btn1 {
+    width: 30px;
+    height: 20px;
+    color: white;
+}
+
+#btn2 {
+    width: 30px;
+    height: 20px;
+    color: white;
+}
+
+#btn3 {
+    width: 30px;
+    height: 20px;
+    color: white;
+}
+
+.btn-guest button{
+    background-color: #1B244A;
+    margin-top: 20px;
+}
+
+#btn__one {
+    width: 30px;
+    height: 20px;
+    color: white;
+}
+
+#btn__two {
+    width: 30px;
+    height: 20px;
+    color: white;
+}
+
+#btn__three {
+    width: 30px;
+    height: 20px;
+    color: white;
+}
